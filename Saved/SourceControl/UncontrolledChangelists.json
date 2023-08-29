@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/New folder/Grapple Sekiro/Grapple Sekiro/Content/Sekiro/Art/M_Hair.uasset",
+				"D:/New folder/Grapple Sekiro/Grapple Sekiro/Content/Sekiro/Sekiro.umap",
+				"D:/New folder/Grapple Sekiro/Grapple Sekiro/Content/Sekiro/Core/BP_GrapplePoint.uasset",
+				"D:/New folder/Grapple Sekiro/Grapple Sekiro/Content/Sekiro/Core/BP_PawnSekiro.uasset",
+				"D:/softwares/Unreal Engine/UE_5.2/Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset",
+				"C:/Users/risha/Downloads/GDPSekiro-master/GDPSekiro-master/SekiroGDP/SekiroGDP 4.25/Content/Sekiro/Art/SM_Hair.uasset"
+			]
+		}
+	]
+}
